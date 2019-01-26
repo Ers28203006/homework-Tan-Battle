@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_(Tanks)", "Day7_(Tanks)\Day7_(Tanks).csproj", "{020ED680-AF50-446E-A724-082D1F09A257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{053D1CCA-1D95-4454-B424-A15B1B1CBEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020ED680-AF50-446E-A724-082D1F09A257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020ED680-AF50-446E-A724-082D1F09A257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020ED680-AF50-446E-A724-082D1F09A257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020ED680-AF50-446E-A724-082D1F09A257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053D1CCA-1D95-4454-B424-A15B1B1CBEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053D1CCA-1D95-4454-B424-A15B1B1CBEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053D1CCA-1D95-4454-B424-A15B1B1CBEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053D1CCA-1D95-4454-B424-A15B1B1CBEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025AC368-7814-44E8-A836-99F0AE49D7A4}
+	EndGlobalSection
+EndGlobal
